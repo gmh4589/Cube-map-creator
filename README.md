@@ -1,5 +1,6 @@
 # Cube-map-creator
-Tool for quickly creating cubemap textures
+Tool for quickly creating cubemap textures.
+
 The program allows you to easily and quickly create textures CubeMap for Fallout 4. (In game archives, these files can be 
 found under the path Textures\Shared)
 These textures look like a rather exotic file: 6-page DDS. Most image viewers can easily open it, many of them can even flip 
@@ -11,7 +12,7 @@ The program can work with all other games, wich uses multipage DDS cubmap textur
 
 ////USING\\\
 
-How create cubemap textures see here﻿.
+How create cubemap textures see here: https://wiki.nexusmods.com/index.php/Creating_cubemaps_for_Skyrim.
 1. Copy 6 source files in the root of the program. All source files need full prepair to final work, resize, rotate and other.
 In the game Fallout 4, all multi-page DDS have the following parameters:
 DDS type: ARGB8888 (A8R8G8B8)
@@ -22,9 +23,9 @@ In Skyrim LE\SE:
 DDS type: DX1
 Resolution: 32х32 - 1024х1024
 Color depth: 32 bit
+
 2. Rename the source files as follows: 1st page = 1.dds; 2nd page = 2.dds; 3rd page = 3.dds; 4th = 4.dds; 5th = 5.dds; 6th 
 page = 6.dds
-﻿
 3. Run the program
 4. If everything was done correctly, then the file out.dds appears in the folder, it can be renamed by the desired name, and 
 used in the game.
