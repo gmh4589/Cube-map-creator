@@ -10,7 +10,7 @@ The program Fallout 4 CubeMap Creator will be able to merge 6 regular DDS-files 
 The program can work with all other games, wich uses multipage DDS cubmap textures format.
 
 
-////USING\\\
+////USING\\\\
 
 How create cubemap textures see here: https://wiki.nexusmods.com/index.php/Creating_cubemaps_for_Skyrim.
 1. Copy 6 source files in the root of the program. All source files need full prepair to final work, resize, rotate and other.
