@@ -33,7 +33,7 @@ ATTENTION!!! - All 6 files must have the same settings! Such as DDS type, resolu
 channel and others. The program takes all the parameters from the first file, and if the subsequent ones are different 
 from the first, then the other pages will not be displayed correctly, or not displayed at all.
 
-
+![Image alt](https://staticdelivery.nexusmods.com/mods/1151/images/34479/34479-1535914992-2098238263.png)
 
 Files with other parameters in the game may not work!
 
